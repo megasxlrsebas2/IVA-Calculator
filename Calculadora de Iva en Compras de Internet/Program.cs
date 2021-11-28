@@ -20,11 +20,15 @@ namespace Calculadora_de_Iva_en_Compras_de_Internet
             string formattedPYGExchangeRate;
             string cacheFile = "C:/Users/megas/source/repos/Calculadora Iva/Calculadora de Iva en Compras de Internet/bin/Debug/data.txt";
             string cacheFileContent = "[Empty]";
+
+            // Check for day works, but now there's no exchange value without calling API. Store value somehow if there isnt any.
+            // TO DO:
+            // Check if exchange rate updated today with DateTime.Today.ToString()
+            // If it did, store value in text file and dont call API
+            // If its the same day but theres no value, call API
+
+            string lastUpdated = ""; 
             
-            // Check for day works, but now there's no exchange value without calling API
-            string lastUpdated = DateTime.Today.ToString();
-            
-            //To do: If application is opened in the same day, store value and dont make API call (Use DateTime), instead use stored value
 
             //CheckForCacheFile();
             ApiHelper.InitializeClient();
