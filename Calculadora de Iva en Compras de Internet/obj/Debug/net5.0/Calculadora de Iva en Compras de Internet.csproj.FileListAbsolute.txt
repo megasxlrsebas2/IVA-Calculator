@@ -1,0 +1,19 @@
+C:\Users\megas\source\repos\Calculadora Iva\Calculadora de Iva en Compras de Internet\bin\Debug\net5.0\Calculadora de Iva en Compras de Internet.exe
+C:\Users\megas\source\repos\Calculadora Iva\Calculadora de Iva en Compras de Internet\bin\Debug\net5.0\Calculadora de Iva en Compras de Internet.deps.json
+C:\Users\megas\source\repos\Calculadora Iva\Calculadora de Iva en Compras de Internet\bin\Debug\net5.0\Calculadora de Iva en Compras de Internet.runtimeconfig.json
+C:\Users\megas\source\repos\Calculadora Iva\Calculadora de Iva en Compras de Internet\bin\Debug\net5.0\Calculadora de Iva en Compras de Internet.runtimeconfig.dev.json
+C:\Users\megas\source\repos\Calculadora Iva\Calculadora de Iva en Compras de Internet\bin\Debug\net5.0\Calculadora de Iva en Compras de Internet.dll
+C:\Users\megas\source\repos\Calculadora Iva\Calculadora de Iva en Compras de Internet\bin\Debug\net5.0\ref\Calculadora de Iva en Compras de Internet.dll
+C:\Users\megas\source\repos\Calculadora Iva\Calculadora de Iva en Compras de Internet\bin\Debug\net5.0\Calculadora de Iva en Compras de Internet.pdb
+C:\Users\megas\source\repos\Calculadora Iva\Calculadora de Iva en Compras de Internet\obj\Debug\net5.0\Calculadora de Iva en Compras de Internet.csproj.AssemblyReference.cache
+C:\Users\megas\source\repos\Calculadora Iva\Calculadora de Iva en Compras de Internet\obj\Debug\net5.0\Calculadora de Iva en Compras de Internet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\megas\source\repos\Calculadora Iva\Calculadora de Iva en Compras de Internet\obj\Debug\net5.0\Calculadora de Iva en Compras de Internet.AssemblyInfoInputs.cache
+C:\Users\megas\source\repos\Calculadora Iva\Calculadora de Iva en Compras de Internet\obj\Debug\net5.0\Calculadora de Iva en Compras de Internet.AssemblyInfo.cs
+C:\Users\megas\source\repos\Calculadora Iva\Calculadora de Iva en Compras de Internet\obj\Debug\net5.0\Calculadora de Iva en Compras de Internet.csproj.CoreCompileInputs.cache
+C:\Users\megas\source\repos\Calculadora Iva\Calculadora de Iva en Compras de Internet\obj\Debug\net5.0\Calculadora de Iva en Compras de Internet.dll
+C:\Users\megas\source\repos\Calculadora Iva\Calculadora de Iva en Compras de Internet\obj\Debug\net5.0\ref\Calculadora de Iva en Compras de Internet.dll
+C:\Users\megas\source\repos\Calculadora Iva\Calculadora de Iva en Compras de Internet\obj\Debug\net5.0\Calculadora de Iva en Compras de Internet.pdb
+C:\Users\megas\source\repos\Calculadora Iva\Calculadora de Iva en Compras de Internet\obj\Debug\net5.0\Calculadora de Iva en Compras de Internet.genruntimeconfig.cache
+C:\Users\megas\source\repos\Calculadora Iva\Calculadora de Iva en Compras de Internet\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\megas\source\repos\Calculadora Iva\Calculadora de Iva en Compras de Internet\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\megas\source\repos\Calculadora Iva\Calculadora de Iva en Compras de Internet\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
